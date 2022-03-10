@@ -350,11 +350,10 @@ button a {
   color: white;
 }
 
-/*Aplicando el extend*/
+/*Aplicando el extend SASS2*/
 .button-basic, .button-report, .button-submit {
   border: none;
   margin-top: 100px;
-  margin-left: 600px;
   padding: 15px 30px;
   text-align: center;
   font-size: 16px;
